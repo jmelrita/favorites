@@ -1,4 +1,4 @@
-import { Store } from "../core/heropy";
+import { Store } from "../core/junmel";
 
 const store = new Store({
   searchText: "",

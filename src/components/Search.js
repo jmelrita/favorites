@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/junmel";
 import movieStore, { searchMovies } from "../store/movie";
 
 export default class Search extends Component {

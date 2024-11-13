@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/junmel";
 
 export default class TheHeader extends Component {
   constructor() {
@@ -47,7 +47,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about"" class="user">
-        <img src="https://heropy.blog/css/images/logo.png" alt="User" />
+        <img src="https://thumbs.dreamstime.com/b/jml-letter-logo-design-black-background-creative-initials-concept-247605929.jpg" alt="User" />
       </a>
     `;
   }

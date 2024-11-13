@@ -1,4 +1,4 @@
-import { createRouter } from "../core/heropy";
+import { createRouter } from "../core/junmel";
 import Home from "./Home";
 import Movie from "./Movie";
 import About from "./About";

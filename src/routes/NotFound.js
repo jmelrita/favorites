@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/junmel";
 
 export default class NotFound extends Component {
   render() {

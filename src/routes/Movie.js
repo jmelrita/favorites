@@ -1,4 +1,4 @@
-import { Component } from "../core/heropy";
+import { Component } from "../core/junmel";
 import movieStore, { getMovieDetails } from "../store/movie";
 
 export default class Movie extends Component {
