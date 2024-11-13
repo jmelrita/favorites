@@ -1,0 +1,7 @@
+.parcel-cache
+dist
+node_modules
+# .DS_Store  mac에서
+# .vscode vscode에 관련된 폴더
+.vercel
+.env
